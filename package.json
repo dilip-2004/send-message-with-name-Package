@@ -1,0 +1,27 @@
+{
+  "name": "@dilipsiva/send-message-with-name",
+  "version": "0.0.2",
+  "description": "just a method to send a message with name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilip-2004/send-message-with-name-Package.git"
+  },
+  "keywords": [
+    "send",
+    "message",
+    "create",
+    "message",
+    "with",
+    "name"
+  ],
+  "author": "dilipsiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilip-2004/send-message-with-name-Package/issues"
+  },
+  "homepage": "https://github.com/dilip-2004/send-message-with-name-Package#readme"
+}
